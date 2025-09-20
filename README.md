@@ -10,11 +10,14 @@
 
 
 
-Download the Zip file and either place in the Dispatcharr Plugins folder or go to the Plugins page in Dispatcharr and Import Plugin
+Download the Zip file and either place in the Dispatcharr Plugins folder or go to the Plugins page in Dispatcharr and Import Plugin.
+
+Download channels.db and update in your Dispatcharr /data/plugins/zap2xml folder when available for updated channels
 
 
 
 ### **Usage**
+
 
 
 **Lineup IDs:** Add one or multiple lineupId's (comma separated)
